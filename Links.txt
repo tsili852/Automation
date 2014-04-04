@@ -1,0 +1,8 @@
+How to build your own Quadcopter Autopilot / Flight Controller - http://ghowen.me/build-your-own-quadcopter-autopilot/
+ArduPilot/APM development site - http://dev.ardupilot.com
+DIY Drones - http://diydrones.com/forum/topics/quadcopter-apm-2-5-v3-01-a-multitude-of-problems
+Arducopter google codes - https://code.google.com/p/arducopter/
+Programming ArduCopter with Arduino - http://copter.ardupilot.com/wiki/programming-arducopter-with-arduino/
+Downloading and using the ArduCopter software with Arduino - https://code.google.com/p/arducopter/wiki/Code
+ArduCopter Source Code - https://sites.google.com/site/npaecopterguide/source-codes/arducopter-source-code-1
+Programming ArduCopter with Arduino - https://code.google.com/p/arducopter/wiki/ProgrammingArduino
